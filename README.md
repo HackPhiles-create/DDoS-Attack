@@ -6,7 +6,7 @@ $pkg update -y && pkg upgrade -y
 
 $pkg install git
 
-$gitclone:https://github.com/Ha3MrX/DDos-Attack
+$gitclone:https://github.com/HackPhiles-create/DDoS-Attack.git
 
 $pkg install figlet
 
